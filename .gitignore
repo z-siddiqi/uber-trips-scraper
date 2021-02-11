@@ -1,0 +1,11 @@
+# environments
+*.env
+
+# vsc folder
+.vscode/*
+
+# data
+*.csv
+
+# log files
+*.log
